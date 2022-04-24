@@ -8,6 +8,7 @@
 
 import UIKit
 
+@objcMembers
 internal class SliderTrackView: UIView {
     typealias GradientValues = (start: UIColor, end: UIColor)
     

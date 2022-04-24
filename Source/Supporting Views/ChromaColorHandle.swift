@@ -8,6 +8,7 @@
 
 import UIKit
 
+@objcMembers
 public class ChromaColorHandle: UIView, ChromaControlStylable {
     
     /// Current selected color of the handle.

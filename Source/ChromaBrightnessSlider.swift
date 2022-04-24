@@ -8,6 +8,7 @@
 
 import UIKit
 
+@objcMembers
 public class ChromaBrightnessSlider: UIControl, ChromaControlStylable {
     
     /// The value of the slider between [0.0, 1.0].

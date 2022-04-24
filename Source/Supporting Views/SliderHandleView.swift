@@ -8,6 +8,7 @@
 
 import UIKit
 
+@objcMembers
 public class SliderHandleView: UIView {
 
     public var handleColor: UIColor = .black {

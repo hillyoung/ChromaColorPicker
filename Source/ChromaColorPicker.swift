@@ -15,6 +15,7 @@ public protocol ChromaColorPickerDelegate: class {
 
 
 @IBDesignable
+@objcMembers
 public class ChromaColorPicker: UIControl, ChromaControlStylable {
     
     public weak var delegate: ChromaColorPickerDelegate?
